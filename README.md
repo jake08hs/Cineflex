@@ -27,7 +27,7 @@ O projeto foi criado para facilitar o fluxo de compra de ingressos, permitindo a
 ---
 
 ## 🔗 Link do Deploy
-🚀 
+🚀 https://cineflex-khaki-one.vercel.app
 
 ---
 <p align="center">Desenvolvido por Jakeline 👩‍💻</p>
