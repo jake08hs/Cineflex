@@ -14,12 +14,12 @@ export default function Header() {
 
 const HeaderContainer = styled.header`
   width: 100%;
-  max-width: 375px; /* Largura fiel ao protótipo */
+  max-width: 375px;
   height: 67px;
   background-color: #EE897F;
   display: flex;
-  justify-content: center; /* Centraliza o conteúdo horizontalmente */
-  align-items: center;     /* Centraliza o conteúdo verticalmente */
+  justify-content: center; 
+  align-items: center;    
   position: fixed;
   top: 0;
   z-index: 10;
@@ -29,7 +29,7 @@ const Content = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px; /* Espaço entre ícone e texto */
+  gap: 12px; 
 `;
 
 const Logo = styled.img`

@@ -49,7 +49,7 @@ const Container = styled.div`
   padding-top: 67px; 
   background-color: #212226;
   min-height: 100vh;
-  box-sizing: border-box; /* Garante que o padding não aumente a largura total */
+  box-sizing: border-box; 
 `;
 
 const Title = styled.h2`
@@ -63,7 +63,7 @@ const Title = styled.h2`
 
 const ContentBox = styled.div`
   width: 100%;
-  max-width: 335px; /* Limite para manter a estética em telas maiores */
+  max-width: 335px; 
   background-color: #2B2D36;
   border-radius: 8px;
   padding: 12px 18px; 
@@ -81,14 +81,14 @@ const Section = styled.div`
 
   h3 {
     font-family: 'Sarala', sans-serif;
-    font-weight: 400; /* Ajustado para peso 400 */
+    font-weight: 400; 
     font-size: 19px;
     color: #EE897F;
     margin-bottom: 2px;
   }
   p {
     font-family: 'Sarala', sans-serif;
-    font-weight: 400; /* Garantindo peso 400 no corpo de texto */
+    font-weight: 400; 
     font-size: 16px;
     color: #FFFFFF;
     line-height: 20px;
